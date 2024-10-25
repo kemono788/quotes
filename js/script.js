@@ -6,16 +6,16 @@ var quotes = [
 	source: "Dr. Seuss"
 	},
 	{
-	quote: "This too, shall pass.",
-	source: "Anonymous"
+	quote: "Dont be a bitch.",
+	source: "Mono"
 	},
 	{
-	quote: "Keep your eyes on the stars and your feet on the ground.",
-	source: "Theodore Roosevelt"
+	quote: "“Push through the pain. Giving up hurts more.”",
+	source: "vegeta"
 	},
 	{
 	quote: "The only person you should try to be better than is the person you were yesterday.",
-	source: "Anonymous"
+	source: "wisdom mono"
 	},
 	{
 	quote: "Never be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life; define yourself.",
@@ -35,8 +35,8 @@ var quotes = [
 	source: "Mary Engelbreit"
 	},
 	{
-	quote: "No one can make you feel inferior without your consent.",
-	source: "Eleanor Roosevelt"
+	quote: "Don’t live your life making up excuses. The one making your choices is yourself!",
+	source: "Mugen (Samurai Champloo)"
 	},
 	{
 	quote: "The woman who follows the crowd will usually go no further than the crowd. The woman who walks alone is likely to find herself in places no one has been before.",
@@ -61,15 +61,15 @@ var quotes = [
 	},
 	{
 	quote: "More fuck yeah, less fuck that.",
-	source: "Anonymous"
+	source: "sassy mono"
 	},
 	{
 	quote: "If you want to go fast, go alone. If you want to go far, go together.",
 	source: "African proverb"
 	},
 	{
-	quote: "It's OK to not be OK, as long as you don't stay that way.",
-	source: "Anonymous"
+	quote: "What is right? What is wrong? In this mixed up world, deciding what is right and wrong is not easy. You can’t just go by somebody else’s rules. If you let yourself be controlled like that, you’ll just become a puppet that can’t make decisions on its own. You have to live by your rules.",
+	source: "Gintoki Sakata (Gintama)"
 	},
 	{
 	quote: "I can be changed by what happens to me but I refuse to be reduced by it.",
